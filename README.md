@@ -19,7 +19,7 @@ After required installations, locate your command line prompt into SPA directory
 - and for Spring Boot, locate into Spring Rest directory and run 'mvn spring-boot:run'
 
 # For Application User Experience
-Login with available email: test@test.com, password: 'password' or try registration with dummy example of e-mail just like 'example@example.com'
+Login with available email: test@test.com, password: 'password' or try registration with dummy example of e-mail just like 'example@example.com'.
 
 # Features
 Angular Material with Flex Layout
